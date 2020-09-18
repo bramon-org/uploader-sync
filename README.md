@@ -13,5 +13,5 @@ pip install -e .
 ```console
 export API_TOKEN=<token>
 
-uploader <directorio> <stations.json>
+uploader <directorio>
 ```
