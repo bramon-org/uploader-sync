@@ -1,0 +1,582 @@
+[
+  {
+    "id": "806e3dd8-4775-45bd-aaef-590809fdcb66",
+    "name": "AAA1"
+  },
+  {
+    "id": "e8da3d3c-383e-4cca-9fe8-ffba5045236c",
+    "name": "ACD1"
+  },
+  {
+    "id": "dd7b6404-1257-49ff-9261-8009b83f75f6",
+    "name": "ACD2"
+  },
+  {
+    "id": "090f326f-d3e3-44fa-a787-83f05331c454",
+    "name": "ADJ1"
+  },
+  {
+    "id": "c47b1299-7a27-4065-ac34-7620c2e527cd",
+    "name": "ALH1"
+  },
+  {
+    "id": "67d69530-d7b3-4b4f-9b72-a42b14823d2b",
+    "name": "ALX1"
+  },
+  {
+    "id": "ae57040d-466e-46bd-87ce-a583c19a0791",
+    "name": "ARA1"
+  },
+  {
+    "id": "0cc26ed1-ea85-461b-a75b-22a9eea72747",
+    "name": "ARC1"
+  },
+  {
+    "id": "3f5000c5-d348-4a32-b2e7-47df8f8dc6e3",
+    "name": "ARL1"
+  },
+  {
+    "id": "4e30020d-2072-4ba0-a390-b9192c5b9f39",
+    "name": "ARL2"
+  },
+  {
+    "id": "7cc6b68b-1265-44b0-8f1a-5e792ebb7b0a",
+    "name": "ARL3"
+  },
+  {
+    "id": "ea02c88e-af4f-4e95-a0fc-591181435b7c",
+    "name": "ARM1"
+  },
+  {
+    "id": "85badc80-8c31-41cc-928a-2df254c45dfb",
+    "name": "ARM2"
+  },
+  {
+    "id": "8eb1d502-5b20-4f84-897f-9b5753aed112",
+    "name": "ARM3"
+  },
+  {
+    "id": "cc8f4b79-d23c-47cd-8092-43707b5a8e03",
+    "name": "ARM4"
+  },
+  {
+    "id": "ac0931a3-ae80-405b-8d5d-2b21ede9c128",
+    "name": "AVA1"
+  },
+  {
+    "id": "cbc56144-b7f8-48b3-b1ea-22bd0ae692a5",
+    "name": "BFB1"
+  },
+  {
+    "id": "f9e03b6c-aa4e-4456-99bd-e5ab70c66d83",
+    "name": "BFB2"
+  },
+  {
+    "id": "2028ca30-170b-4944-a9a9-6b7e1dd7d07b",
+    "name": "CAV1"
+  },
+  {
+    "id": "ee62f8b2-1cde-410d-b565-8b07441e9a46",
+    "name": "CEUC1"
+  },
+  {
+    "id": "dcef7afd-87d2-42bb-82eb-0be6951091a6",
+    "name": "CFJ1"
+  },
+  {
+    "id": "0f2a4238-2cae-45f4-8db8-e69134b004f1",
+    "name": "CFJ10"
+  },
+  {
+    "id": "4855b0ec-e24b-4521-98da-6e7b55ae20b4",
+    "name": "CFJ2"
+  },
+  {
+    "id": "09af53a7-95f9-435d-8918-e15fd7462ebe",
+    "name": "CFJ3"
+  },
+  {
+    "id": "4b9ef83c-1a36-4ed6-b22d-20d9109f33da",
+    "name": "CFJ4"
+  },
+  {
+    "id": "b615edb4-5084-44fa-99d9-5b0cc580b808",
+    "name": "CFJ5"
+  },
+  {
+    "id": "2b0ae0c0-f69b-4cd7-b73a-73497a86c398",
+    "name": "CFJ6"
+  },
+  {
+    "id": "8e15f862-0dec-4d75-b22a-c043db7dbded",
+    "name": "CFJ7"
+  },
+  {
+    "id": "ad88ce07-d695-43a6-b867-b8babcbbfe41",
+    "name": "CFJ8"
+  },
+  {
+    "id": "c61c0b81-196b-43e9-9418-0838d317144c",
+    "name": "CFJ9"
+  },
+  {
+    "id": "c7e2e0e3-92e1-4be3-a29e-e4186b9d7987",
+    "name": "cGPA1"
+  },
+  {
+    "id": "6ba99d30-7dec-427d-9e7b-5f15e91f4798",
+    "name": "CMM1"
+  },
+  {
+    "id": "16a327f7-f4f8-4ab7-84e2-8439f4b1e273",
+    "name": "CPS1"
+  },
+  {
+    "id": "bfed7221-3761-4a5a-90d1-a900cfc36dbc",
+    "name": "CPS2"
+  },
+  {
+    "id": "27dc99c8-d5f9-4b8b-984e-af0963f19912",
+    "name": "CRN1"
+  },
+  {
+    "id": "7b45f5ee-ddd5-4d3a-ba18-2c9b4a863cf7",
+    "name": "CRN2"
+  },
+  {
+    "id": "dc0cf131-c17a-4618-86d9-7e6d6523af17",
+    "name": "CRP1"
+  },
+  {
+    "id": "73bc7059-5e56-4c65-91c2-256bd5ddcaeb",
+    "name": "CSP1"
+  },
+  {
+    "id": "2a00aa07-72ac-4bfb-83c9-5fa9a55233bc",
+    "name": "DCS"
+  },
+  {
+    "id": "1a35c2dc-4c22-4798-91a8-813a140db0b6",
+    "name": "EDB1"
+  },
+  {
+    "id": "9cd01737-d803-412b-ac64-2b93e47b6fee",
+    "name": "EEEP1"
+  },
+  {
+    "id": "08af39e7-5e23-42b6-83b6-a4abd28dea87",
+    "name": "eIFS1"
+  },
+  {
+    "id": "131c8067-81cb-41a9-aa43-c2d8bb453640",
+    "name": "eJCC1"
+  },
+  {
+    "id": "8e063e8e-475a-43d7-aa8a-22f1f29dfc0b",
+    "name": "EMM1"
+  },
+  {
+    "id": "72dcc243-f7b6-495c-a6bc-df4a8617dcef",
+    "name": "EMM2"
+  },
+  {
+    "id": "909f228d-5acd-4d3b-88dd-1b00a84240ab",
+    "name": "EVL1"
+  },
+  {
+    "id": "4af165a3-2636-4622-a97d-9c4f5ed82723",
+    "name": "FBG1"
+  },
+  {
+    "id": "56c71c9f-d522-4035-b912-4b193a613fd9",
+    "name": "FEB1"
+  },
+  {
+    "id": "24036bdc-d563-4de7-8d8a-49eafb25983f",
+    "name": "FGL1"
+  },
+  {
+    "id": "614b694c-de19-4586-b522-2f91fe3c47e1",
+    "name": "GDOP1"
+  },
+  {
+    "id": "1ee70409-1511-4891-9906-bb1a45d0e9d1",
+    "name": "GEAZ1"
+  },
+  {
+    "id": "bbc239c6-d64d-49d8-bb33-867dd8332df7",
+    "name": "GZT1"
+  },
+  {
+    "id": "8ae73821-9acd-487c-b690-2d5a63e1401c",
+    "name": "GZT2"
+  },
+  {
+    "id": "a39d8d46-4a6b-4819-aa75-ccbf0b55922e",
+    "name": "GZT3"
+  },
+  {
+    "id": "45c98ccc-030e-408e-8e68-a629d173faf9",
+    "name": "HPR1"
+  },
+  {
+    "id": "ea926da5-7790-4d24-9959-d4526b00a0d4",
+    "name": "IDS1"
+  },
+  {
+    "id": "5f4b1fc8-1c93-4c59-b301-d8a84a420e79",
+    "name": "IDS2"
+  },
+  {
+    "id": "95a75a8d-2de2-43f7-8e04-6a2a625111bc",
+    "name": "IDS3"
+  },
+  {
+    "id": "0ca6330f-1cac-4371-a485-ce7d5d2934a0",
+    "name": "IDS4"
+  },
+  {
+    "id": "5d0e45dd-a747-46a9-be5e-568157b4e71a",
+    "name": "IDS5"
+  },
+  {
+    "id": "ddaca7c7-3fe3-474c-9b4a-7aa1493b1233",
+    "name": "IDS6"
+  },
+  {
+    "id": "e79b5436-1c45-4913-ab70-0362114ccc58",
+    "name": "IFJc1"
+  },
+  {
+    "id": "d09a047e-9e5a-4879-bb04-d546c23170e6",
+    "name": "IHM1"
+  },
+  {
+    "id": "2f3d4ab9-e098-4118-a426-3a91d307a3f3",
+    "name": "ISL1"
+  },
+  {
+    "id": "c9c87d51-7b0b-491f-841d-799d195f64ff",
+    "name": "ISL2"
+  },
+  {
+    "id": "aacdfbb9-32a8-4967-9e32-fe07ea2a2b03",
+    "name": "ISL3"
+  },
+  {
+    "id": "2959f444-499d-42fc-9c60-66f52fa10c53",
+    "name": "ISL4"
+  },
+  {
+    "id": "e7003a4b-38cd-4f87-bd97-5be35dfb122e",
+    "name": "ISL5"
+  },
+  {
+    "id": "2abb0748-034c-4dab-ba32-07de7b4f0707",
+    "name": "JAM1"
+  },
+  {
+    "id": "9297b3a6-1061-4609-884a-a13f86d9d11b",
+    "name": "JJS1"
+  },
+  {
+    "id": "3cb6e46f-e115-437b-bcf5-67c0a59be33e",
+    "name": "JJS2"
+  },
+  {
+    "id": "50986b48-a3a3-4d08-9f90-2421e86002dc",
+    "name": "JJS3"
+  },
+  {
+    "id": "cbbd650e-fa1b-4145-9f9a-b3bdfdd8aff8",
+    "name": "JJS4"
+  },
+  {
+    "id": "edeee6e1-5f2c-4a53-9eee-3eb4b442e48b",
+    "name": "JJS5"
+  },
+  {
+    "id": "4fed6e6a-6c55-4717-83b4-e166ad4dfc83",
+    "name": "JPM"
+  },
+  {
+    "id": "c4f8f2ee-73d5-4f11-86f8-ad2d7088f7c0",
+    "name": "JPM3"
+  },
+  {
+    "id": "bec37992-7553-4527-bc93-6f0d2a1697b8",
+    "name": "JPZ1"
+  },
+  {
+    "id": "73f936a4-760a-4297-a2c3-7a3e3a648d3b",
+    "name": "JPZ2"
+  },
+  {
+    "id": "008e6ba2-cf9b-4118-a468-fae2bdfa6750",
+    "name": "JPZ3"
+  },
+  {
+    "id": "33af72f0-4527-4738-a87d-9da7c18f32eb",
+    "name": "JZL1"
+  },
+  {
+    "id": "971756d5-7e95-48b8-9bcb-61365bca44ad",
+    "name": "LCP1"
+  },
+  {
+    "id": "7f2b2ffc-f2ce-47dd-bea0-3b3db11f801a",
+    "name": "LCS1"
+  },
+  {
+    "id": "ed998f88-76d5-4fa2-8e10-16f6264731c2",
+    "name": "LCS2"
+  },
+  {
+    "id": "4b5334c0-63a6-48ba-99bc-e2581af0894d",
+    "name": "LET1"
+  },
+  {
+    "id": "14dc00f2-a736-490e-9760-29342f40ed8b",
+    "name": "LKL1"
+  },
+  {
+    "id": "27dd611b-cdf3-431a-b585-69848637df20",
+    "name": "MAD1"
+  },
+  {
+    "id": "9d8b3b6b-86ef-4061-9e40-b12846acb95b",
+    "name": "MAD2"
+  },
+  {
+    "id": "6e0eab6d-f967-4572-8e26-34ad4b48dc01",
+    "name": "MAD3"
+  },
+  {
+    "id": "b7fe501a-2cca-4908-a0dc-02aa1dc30887",
+    "name": "MAR1"
+  },
+  {
+    "id": "898fb946-1210-4102-9814-a29feb0c82a7",
+    "name": "MAS1"
+  },
+  {
+    "id": "441f1137-a976-42b8-bfe5-fda09ace0538",
+    "name": "MAV1"
+  },
+  {
+    "id": "6ca518d3-f335-43a4-a66c-1991df2257bc",
+    "name": "MAV2"
+  },
+  {
+    "id": "613732e1-7677-4395-a2fb-203be64f9e4a",
+    "name": "MDE1"
+  },
+  {
+    "id": "fd1b63de-6e5d-4ef0-ba89-35b95e620ef5",
+    "name": "MHS1"
+  },
+  {
+    "id": "cbcc7cfa-6f83-4c0a-b84a-ccaa8b1ab613",
+    "name": "MHS2"
+  },
+  {
+    "id": "afcdc365-9a9e-4cc0-9dc0-5cce75e017bb",
+    "name": "MPE1"
+  },
+  {
+    "id": "3ed5c1c7-0608-4702-ad39-3f550e6f6589",
+    "name": "MPM1"
+  },
+  {
+    "id": "e92bcb47-9c89-4050-a9c1-fe294a5d4ff4",
+    "name": "NJR1"
+  },
+  {
+    "id": "c5bb0534-b2b6-45c8-b5aa-2c1a03c0fc85",
+    "name": "OCA1"
+  },
+  {
+    "id": "93933290-2a1b-49db-81a6-24e5e01c0ba6",
+    "name": "OCA2"
+  },
+  {
+    "id": "47b877d5-e086-4884-8d70-645aaafe23c1",
+    "name": "OCA3"
+  },
+  {
+    "id": "95d661df-f981-471b-84bd-09ab0cba8100",
+    "name": "OTTO"
+  },
+  {
+    "id": "6a442144-2e2c-45dc-a6e1-0997ef81f116",
+    "name": "OTTO1"
+  },
+  {
+    "id": "b36caaf0-aafc-4ba1-9336-29ec1bdc1ca7",
+    "name": "PHS1"
+  },
+  {
+    "id": "1b450567-d119-4eba-96e0-b133563f18b9",
+    "name": "PIA1"
+  },
+  {
+    "id": "80b1bb4e-491b-47c3-8d1c-93d9b48f48eb",
+    "name": "pjKP1"
+  },
+  {
+    "id": "01052679-df58-4e9f-8622-e7fcc23f422a",
+    "name": "RCP1"
+  },
+  {
+    "id": "31f45b05-d28c-4615-8023-1a3e1a4b979c",
+    "name": "RCP2"
+  },
+  {
+    "id": "a1454479-7240-4f7a-b561-80b11bc9db1a",
+    "name": "RCP3"
+  },
+  {
+    "id": "1960cda8-2b17-40b7-8e34-36db89d8606f",
+    "name": "RCP4"
+  },
+  {
+    "id": "8175dc0c-4e2a-4c98-b888-ac74893af19d",
+    "name": "RCP5-All Sky"
+  },
+  {
+    "id": "10dc9973-bcfe-4e8c-aa30-50585bdffc16",
+    "name": "RNR1"
+  },
+  {
+    "id": "f3a71e43-363f-4726-bee0-26b374474a5a",
+    "name": "ROO1"
+  },
+  {
+    "id": "2d74a77d-4af9-46c9-b5c8-8406672404b4",
+    "name": "RRA1"
+  },
+  {
+    "id": "f8695380-792f-4390-988b-b9d5d70d60b7",
+    "name": "RSS1"
+  },
+  {
+    "id": "2e932d0a-5f19-47cd-b64b-c0543f8186b6",
+    "name": "SBF1"
+  },
+  {
+    "id": "6167b57c-4418-4b82-8b87-9be320e42e2f",
+    "name": "SMB1"
+  },
+  {
+    "id": "bb487425-c4f9-4a6d-8ea0-1a1183a8f510",
+    "name": "SMZ1"
+  },
+  {
+    "id": "a2b8254b-ab33-4af7-9ea1-fe90c7adde16",
+    "name": "SMZ10"
+  },
+  {
+    "id": "a3c6ad19-e82f-4524-887f-4bc4f5c0a2d8",
+    "name": "SMZ2"
+  },
+  {
+    "id": "e048cbfc-98fc-4245-a688-e7c3f2a63b60",
+    "name": "SMZ3"
+  },
+  {
+    "id": "18dd4a2f-d1a9-4ac4-9e5b-29dc4bd8c7e1",
+    "name": "SMZ4"
+  },
+  {
+    "id": "85c35396-c8ec-4a05-bb83-5bc5fc97d931",
+    "name": "SMZ5"
+  },
+  {
+    "id": "eec20229-df39-45e7-b739-2ffe160cf2cb",
+    "name": "SMZ6"
+  },
+  {
+    "id": "7723c166-62bd-4175-b193-9b8ed95528e3",
+    "name": "SMZ7"
+  },
+  {
+    "id": "0fdf0753-5653-488b-9052-b6ab441822fd",
+    "name": "SMZ8"
+  },
+  {
+    "id": "9775ffba-4424-4695-b0f5-8812d224d6be",
+    "name": "SMZ9"
+  },
+  {
+    "id": "0e3a37cd-9540-4c9a-8064-a8888bfaefbe",
+    "name": "TLP1"
+  },
+  {
+    "id": "f108564c-f8a1-47e5-b90f-532baeb4f363",
+    "name": "TLP10"
+  },
+  {
+    "id": "f6c3675e-f0de-4dea-90c5-1d89124e530d",
+    "name": "TLP2"
+  },
+  {
+    "id": "847a0776-7355-42e6-9379-0a27b9ab7578",
+    "name": "TLP3"
+  },
+  {
+    "id": "ee8e4b86-6cf1-40be-985b-4b6c0f19c44a",
+    "name": "TLP4"
+  },
+  {
+    "id": "2ddfdc5a-d82a-4815-adf1-4abf0b0ff156",
+    "name": "TLP5"
+  },
+  {
+    "id": "8f10e340-90de-44d5-b167-d994b6b82104",
+    "name": "TLP6"
+  },
+  {
+    "id": "8e57de87-9cae-4dc3-8de0-a0eca1656bc2",
+    "name": "TLP7"
+  },
+  {
+    "id": "bc96c9f3-cfd5-498c-83a0-be0e603d968c",
+    "name": "TLP8"
+  },
+  {
+    "id": "ddfcbf84-aeb7-419c-a356-3c8e39785a94",
+    "name": "TLP9"
+  },
+  {
+    "id": "836a93c0-6f5c-4186-807f-69b7db32bcba",
+    "name": "TST4"
+  },
+  {
+    "id": "bd53d54d-825f-46b3-a24e-d91d05289f05",
+    "name": "UNB1"
+  },
+  {
+    "id": "ac3e3133-dd33-4c7e-a3d4-bf73268cd33b",
+    "name": "VCL1"
+  },
+  {
+    "id": "61f78bb1-694f-4bf3-8507-a243457b73bf",
+    "name": "VRG1"
+  },
+  {
+    "id": "0c1b6763-b48c-45ff-a00f-044b226d8fb7",
+    "name": "WGI1"
+  },
+  {
+    "id": "363be35b-5f64-4feb-a4de-2d5ec4088bf9",
+    "name": "WMV1"
+  },
+  {
+    "id": "b695b9bd-269f-4a2d-92ce-55d44e6289b4",
+    "name": "WOL1"
+  },
+  {
+    "id": "f48b7ef5-d9cd-4488-9ce6-c9071913a149",
+    "name": "WSR1"
+  }
+]
