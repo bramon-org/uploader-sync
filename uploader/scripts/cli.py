@@ -45,8 +45,9 @@ def upload_captures(captures: list):
 
         station = get_station_id(station_name).pop()
         station_id = station['id']
+        user_id = station['user_id']
         files = {'files[]': open(capture, 'rb')}
-        values = {'station_id': station_id}
+        values = {'station_id': station_id, 'user_id': user_id}
         headers = {'Authorization': "Bearer {}".format(data.API_TOKEN)}
 
         r = requests.post(data.API_URL, files=files, data=values, headers=headers)
