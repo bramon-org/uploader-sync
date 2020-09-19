@@ -16,8 +16,7 @@ def get_stations():
     return stations.json()
 
 
-def get_station_id(station_name: str):
-    stations_list = get_stations()
+def get_station_id(station_name: str, stations_list: dict):
     stations_data = stations_list['data']
 
     return list(filter(lambda x: x["name"] == station_name, stations_data))
@@ -41,13 +40,15 @@ def get_station_name(capture):
 
 
 def upload_captures(captures: list):
+    stations_db = get_stations()
+
     for capture in captures:
         try:
             station_name = get_station_name(capture)
+            station = get_station_id(station_name, stations_db).pop()
         except IndexError:
             continue
 
-        station = get_station_id(station_name).pop()
         station_id = station['id']
         user_id = station['user_id']
 
