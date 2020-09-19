@@ -20,11 +20,11 @@ setup(name='uploader',
       zip_safe=False,
       install_requires=[
           'click',
+          'requests'
       ],
       extras_require={
           'test': [
               'pytest',
-              'requests'
           ],
       },
       entry_points="""
