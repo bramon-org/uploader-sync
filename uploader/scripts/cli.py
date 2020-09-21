@@ -23,7 +23,7 @@ def get_station_id(station_name: str, stations_list: dict):
 
 
 def get_station_name(capture):
-    base = re.findall('(\w{3,5})_(\d{1,})(.+)?\.(\w{3})$', capture)
+    base = re.findall(r'(\w{3,5})_(\d+)(.+)?\.(\w{3})$', capture)
 
     if len(base) == 0:
         raise IndexError("Station not found")
